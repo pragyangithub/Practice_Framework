@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19788" started-at="2018-06-08T10:54:13Z" finished-at="2018-06-08T10:54:33Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19788" started-at="2018-06-08T10:54:13Z" finished-at="2018-06-08T10:54:33Z">
+      <class name="com.Actitime.TestScript.LoginTest">
+        <test-method status="PASS" signature="configBC()[pri:0, instance:com.Actitime.TestScript.LoginTest@402a079c]" name="configBC" is-config="true" duration-ms="11211" started-at="2018-06-08T03:54:13Z" finished-at="2018-06-08T03:54:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method status="PASS" signature="verifyInvalidPassword()[pri:0, instance:com.Actitime.TestScript.LoginTest@402a079c]" name="verifyInvalidPassword" duration-ms="7439" started-at="2018-06-08T03:54:25Z" finished-at="2018-06-08T03:54:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyInvalidPassword -->
+        <test-method status="PASS" signature="verifyInvalidUsername()[pri:0, instance:com.Actitime.TestScript.LoginTest@402a079c]" name="verifyInvalidUsername" duration-ms="1106" started-at="2018-06-08T03:54:32Z" finished-at="2018-06-08T03:54:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyInvalidUsername -->
+        <test-method status="PASS" signature="configAC()[pri:0, instance:com.Actitime.TestScript.LoginTest@402a079c]" name="configAC" is-config="true" duration-ms="8" started-at="2018-06-08T03:54:33Z" finished-at="2018-06-08T03:54:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+      </class> <!-- com.Actitime.TestScript.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
