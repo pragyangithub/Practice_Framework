@@ -25,6 +25,7 @@ public class Asdf {
 	 
 	 @BeforeClass
 		public void configBC() throws Throwable {
+		 //heloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
 			pObj=flib.getpropertyObj();
 			driver=new FirefoxDriver();
 			driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
